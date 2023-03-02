@@ -1,17 +1,18 @@
-# ABCD 00 DIFUSE Module 
+# ANTH06/40 DIFUSE Module 
 
-## Contributors: Jane Doe ('24), Muhammad Aronno ('23), and Professor Craig Silsby (PI) 
+## Contributors: Logan Sankey ('20), Taylor Hickey ('23),  Monika Roznere (GR), and Professor Lorie Loeb (PI) 
 
-![Sample title slide for a DIFUSE module.](repository-assets/DIFUSE-sample.png)
+![DIFUSE Data Science Module.  Anthropology 6/40, Introduction to Biological Anthropology.  Professor Nate Dominey and Professor Jerry DeSilva.  Funded by NSF IUSE1917002](repository-assets/DIFUSE-sample.png)
 
 This module was developed through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ## Module Description 
-This module is used to learn and then apply dyad interaction modeling using an R-based programming module, with the help of the package 'dyAddon' and open-sourced datasets from the Data of Sets.
+This module is used to learn and apply the systematic steps that anthropologists would take to make deductible inferences about historical societies given the observations of fossil (foot print) records.
 
 
+NOTE: Graphic below is WIP
 
 ![Medium length module for an introductory course using python and covering analyzing, visualizing data and drawing conclusions.](repository-assets/sample-badge.png "Medium length module for an introductory course using python and covering analyzing, visualizing data and drawing conclusions.")
 
@@ -19,7 +20,7 @@ This module is used to learn and then apply dyad interaction modeling using an R
 
 ## [Click here for module materials](completed_module/README.md)
 
-For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/data-migration-template/commits/main/).
+For instructors and interested parties, the history of this repository (with detailed commits), can be found [here](https://github.com/difuse-dartmouth/ANTH06-40_22F/commits/main/).
 
 ## Folder Structure
 
