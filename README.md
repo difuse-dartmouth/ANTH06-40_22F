@@ -2,7 +2,7 @@
 
 ## Contributors: Logan Sankey ('20), Taylor Hickey ('23),  Monika Roznere (GR), and Professor Lorie Loeb (PI) 
 
-![DIFUSE Data Science Module.  Anthropology 6/40, Introduction to Biological Anthropology.  Professor Nate Dominey and Professor Jerry DeSilva.  Funded by NSF IUSE1917002](repository-assets/DIFUSE-sample.png)
+![DIFUSE Data Science Module.  Anthropology 6/40, Introduction to Biological Anthropology.  Professor Nate Dominey and Professor Jerry DeSilva.  Funded by NSF IUSE1917002](DIFUSE-ANTH6-40.png)
 
 This module was developed through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
 
