@@ -1,4 +1,4 @@
-# ANTH06-40 <a href="https://github.com/difuse-dartmouth/public-module-template/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/ecc522189d093025100d24feef5fc134f592c677/profile/download_button.png" alt="Download the entire module" align="right" style="width: 0.25in;"></a>
+# ANTH06-40 <a href="https://github.com/difuse-dartmouth/ANTH06-40_22F/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/ecc522189d093025100d24feef5fc134f592c677/profile/download_button.png" alt="Download the entire module" align="right" style="width: 0.25in;"></a>
 
 This repository contains all the components of the data science module for Dartmouth College's Anthropology courses, ANTH 06 Introduction to Biological Anthropology and ANTH 40 Human Functional Anatomy. Click the icon next to the course name above to download the entire module.
 
@@ -21,16 +21,7 @@ For ANTH 06, this is a 1st year course, and students are not expected to have an
 
 Use this page to get an idea of the timeline of the module, what components are involved, and what documents are related to each component. This is the schedule intended for module deployment by the DIFUSE team, though instructors are welcome to modify the timeline to fit their course environment.
 
-Ver1:
-
-| Date             | Class Session | In/Out of Class | Assignment Description                                                                            | Assignment Files (Linked to Repository Contents) |
-|------------------|---------------|-----------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| October 13, 2022 | 1             | In-class        | Gather anthropometric data using Google Form and lab handout.                                     | [Google Form & Sheet](https://github.com/difuse-dartmouth/ANTH06-40_22F/blob/ef63b00948a8603ac2be8cee7c07e0b71015eff7/completed_module/public/components/input_form.md), [Instructor Guide](https://github.com/difuse-dartmouth/ANTH06-40_22F/blob/ef63b00948a8603ac2be8cee7c07e0b71015eff7/completed_module/public/components/Instructor%20Directions.docx)                                                 |
-| October 22, 2022 | 1+            | Out of class    | Using lab handout and deliverables as a guide, produce a typed lab report and submit by 11:59 pm. |      
-
-Final Ver:
-
 | Date             |  In/Out of Class | Assignment Description                     | Linked course content                                    | Assignment Files (Linked to Repository Contents) |
 |------------------|-----------------|--------------------------------------------------|-------------------------------------------------|--------------------------------------------------|
-| Week 1 | Out of class      | Set #1: ...  | Course content|[Problem Set 1](completed_module/components/assignment1/XXX) |
-| Day 8 | In class      | Set #2: ... | 	Course content |[Problem Set 2](completed_module/public/components/assignment2/XXX) |
+| October 13, 2022 | In-class      |  Read introduction on assigment PDF; gather anthropometric data using Google Form and lab handout (instructions for constructing sandbox included for increased precision in measurements); submit individual data by the end of day.  | Course content| [Google Form & Sheet](https://github.com/difuse-dartmouth/ANTH06-40_22F/blob/ef63b00948a8603ac2be8cee7c07e0b71015eff7/completed_module/public/components/input_form.md), [Instructor Guide](https://github.com/difuse-dartmouth/ANTH06-40_22F/blob/ef63b00948a8603ac2be8cee7c07e0b71015eff7/completed_module/public/components/Instructor%20Directions.docx)                          |
+| October 22, 2022 | Out-of-class      | Analyze class data; using lab handout and deliverables as a guide to critically think and summarize inferences, produce a typed lab report and submit to Canvas by 11:59 pm. | 	Course content | N/A |
