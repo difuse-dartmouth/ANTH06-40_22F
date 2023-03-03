@@ -1,20 +1,20 @@
-# Course NAME <a href="https://github.com/difuse-dartmouth/public-module-template/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/ecc522189d093025100d24feef5fc134f592c677/profile/download_button.png" alt="Download the entire module" align="right" style="width: 0.25in;"></a>
+# ANTH06-40 <a href="https://github.com/difuse-dartmouth/public-module-template/archive/refs/heads/main.zip"><img src="https://github.com/difuse-dartmouth/.github/blob/ecc522189d093025100d24feef5fc134f592c677/profile/download_button.png" alt="Download the entire module" align="right" style="width: 0.25in;"></a>
 
-This repository contains all the components of the data science module for Dartmouth College's ABCD 00: A course you'd like to take.  Click the icon next to the course name above to download the entire module.
+This repository contains all the components of the data science module for Dartmouth College's Anthropology courses, ANTH 06 Introduction to Biological Anthropology and ANTH 40 Human Functional Anatomy. Click the icon next to the course name above to download the entire module.
 
 ## Primary Objective
 
-The primary objective for this module is...
+The primary objective for this module is for students to learn and apply the systematic steps that anthropologists would take to make deductible inferences about historical societies given the observations of fossil (foot print) records. The goals of the module are a subset of tasks that help achieve this primary objective.
 
 ## Student Expectations
 
-Give details of what students have as background.  Do we expect them to have certain skills? Does the course have prerequisites? etc.
+For ANTH 06, this is a 1st year course, and students are not expected to have any prior knowledge in anthropology. For Anth 40, which is a 3rd/4th year course, students are expected to have taken some prior courses in anatomy and biology. However, for both courses, students should have basic skills in taking measurements, recording data, applying simple formulas to data, and reading graphs. Students are expected to make inferences, but are encouraged to use intuition and their belief.
 
 ## Learning Objectives
-1.	Objective 1
-2.	Objective 2
-3.	Objective 3
-4.	Objective 4
+1.	Calculate the relationship between step length, cadence, and speed of walking in a population of undergraduate students. (Identify that anatomy and movement/kinematics are related.)
+2.	Compare them to that of G1 (hominin) to see if they are significantly different.
+3.	Explore the relationship between kinematics, fossil evidence, and behavior.
+4.	Apply data science techniques to analyze and interpret data in anthropology.
 
 
 ## Schedule and Links
