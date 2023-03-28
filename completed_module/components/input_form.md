@@ -1,6 +1,6 @@
 # ANTH06-40 Module, DIFUSE
 
-Users should look at instructor_directions.docx before moving forward, as that document gives context/setup information for the module. The following links will be used for module data collection.
+Users should look at [instructor_directions.docx](https://github.com/difuse-dartmouth/ANTH06-40_22F/tree/main/completed_module/components) before moving forward, as that document gives context/setup information for the module. The following links will be used for module data collection.
 
 This file contains the link to the Google Form and Google Sheet related to this module.
 
