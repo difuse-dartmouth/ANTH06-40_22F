@@ -1,11 +1,7 @@
-# ANTH06 Module, DIFUSE
+# ANTH06-40 Module, DIFUSE
 
-Date: 16 February 2023
+Users should look at instructor_directions.docx before moving forward, as that document gives context/setup information for the module. The following links will be used for module data collection.
 
-Author: @bendlev
-
-Last Updated: 16 February 2023
-#
 This file contains the link to the Google Form and Google Sheet related to this module.
 
 Users should perform the following steps to prepare assignment:
