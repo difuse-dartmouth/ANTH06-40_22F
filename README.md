@@ -26,8 +26,8 @@ For instructors and interested parties, the history of this repository (with det
 
 The folder *completed_module* contains all of the module components.  
 
-The *components* subfolder contains ...
+The *components* subfolder contains instructor directions for setting up the lab, including the Google Sheet and Google Form linking specifics. It also includes a diagram of the sandbox that can be constructed for more accurate data measurements.
 
-The *data* subfolder contains ...
+The *data* subfolder contains example gait datasets that can be used by instructors to build understanding of the concepts (and expected results) before moving onto the main assignment.
 
-The *logistics* subfolder contains ...
+The *logistics* subfolder contains the ANTH 22S Handoff Template, another overview of the module and a brief retrospective from module developers.
