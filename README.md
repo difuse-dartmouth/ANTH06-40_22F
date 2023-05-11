@@ -2,7 +2,7 @@
 
 ## Contributors: Logan Sankey ('20), Taylor Hickey ('23), Monika Roznere (GR), and Professor Lorie Loeb (DIFUSE PI, Professor of Computer Science), Taylor Hickey ('23, Project Manager) 
 
-![ANTH06/40 DIFUSE Module Funded by NSF IUSE1917002](https://github.com/difuse-dartmouth/anthropology-footprint-collect-analyze/blob/8de9aded5d3c48cd4f3a4cc30257e303777dbfd5/DIFUSE-ANTH6-40.png)
+![ANTH06/40 DIFUSE Module Funded by NSF IUSE1917002](repository-assets/anth6splash_new.png)
 
 This module was developed through the DIFUSE project at Dartmouth College and funded by the National Science Foundation award IUSE-1917002.
 
